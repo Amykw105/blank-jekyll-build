@@ -1,0 +1,4 @@
+
+Uses a gulpwork flow based on this: https://codegaze.github.io/2016/01/09/a-jekyll-workflow-with-gulp/
+
+Just run gulp, no need to do Jekyll serve. 
