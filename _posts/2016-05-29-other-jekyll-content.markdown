@@ -1,8 +1,9 @@
 ---
-title:  "Other Jekyll Content!"
-date:   2016-05-29 16:09:02 +0100
-categories: jekyll update
-slug: other-jekyll-content
+title: Other Jekyll Content!
+date: 2016-05-29 15:09:02 Z
+categories:
+- jekyll
+- update
 ---
 
 <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla ullamcorper est in imperdiet molestie. Curabitur aliquet sem in ante venenatis.</p>
